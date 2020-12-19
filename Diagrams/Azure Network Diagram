@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2020-12-19T19:02:47.132Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="T3OVwD76Qt35XnnVE-_V" version="14.0.1" type="github">
+  <diagram id="h945fao41x0R4RgQng2K" name="Page-1">
+    <mxGraphModel dx="1144" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="529.89" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zPneGnZ1vcdY2xTQKbNh-4" target="zPneGnZ1vcdY2xTQKbNh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74.44" y="620" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="78.89" height="53.58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-7" value="CSBS-Faisal Azure Resource Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.5" y="170" width="215" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-9" value="CloudSecurityUnit Virtual Network 10.0.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="300" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-11" value="Virtual Subnet 10.0.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="479.27" width="52.44" height="48.64" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="479.27" width="52.44" height="48.64" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="479.27" width="54.7" height="50.73" as="geometry" />
+        </mxCell>
+        <mxCell id="zPneGnZ1vcdY2xTQKbNh-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="150" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
