@@ -7,4 +7,4 @@ Below is my network diagram.
 
 ![Network Diagram](Diagrams/networkDiagram.png)
 
-!{}(Ansible/filebeat/filebeat-playbook.yml)
+[](Ansible/filebeat/filebeat-playbook.yml)
