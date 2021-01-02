@@ -6,3 +6,5 @@ Cyber Security Bootcamp.
 Below is my network diagram.
 
 ![Network Diagram](Diagrams/networkDiagram.png)
+
+![filebeat](Ansible/filebeat/filebeat-playbook.yml)
