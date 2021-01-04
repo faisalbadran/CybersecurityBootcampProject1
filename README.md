@@ -4,7 +4,7 @@
 This is the first project in the U of T School of Continuing Studies
 Cyber Security Bootcamp.
 
-The files in this repository we used to configure the network depicted below.
+The files in this repository were used to configure the network depicted below.
 
 ![Network Diagram](Diagrams/networkDiagram.png)
 
